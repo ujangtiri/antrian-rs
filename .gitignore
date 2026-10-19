@@ -1,0 +1,4 @@
+hospital.db
+hospital.log
+__pycache__/
+*.pyc
